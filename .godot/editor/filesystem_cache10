@@ -1,0 +1,32 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1757945930
+Cubone.glb::PackedScene/PackedScene::8149363043096310253::1757944535::1757944536::1::::<><><>0<>0<>011ff7dfe73914346dd5ec6c490e6738<>res://.godot/imported/Cubone.glb-d6994a6c1242e6e973a772b57da997c7.scn::
+export_presets.cfg::TextFile/TextFile::-1::1757945930::0::1::::<><><>0<>0<><>::
+icon.webp::CompressedTexture2D/CompressedTexture2D::27118964165343846::1757944489::1757944495::1::::<><><>0<>0<>2765b228073266418cb0e013965e5088<>res://.godot/imported/icon.webp-e94f9a68b0f625a567a797079e4d325f.ctex::
+Magikarp.glb::PackedScene/PackedScene::3439185545181192172::1757944535::1757944536::1::::<><><>0<>0<>f20ab542053adf8ffd8ef5337d446d19<>res://.godot/imported/Magikarp.glb-c0324fe3dbed7f812784fb0a3e15e4f4.scn::
+Main.gd::GDScript/GDScript::599725964867366181::1757944489::0::1::::<>Node<><>0<>0<><>::
+Main.tscn::PackedScene::1946344858681233962::1757945886::0::1::::<><><>0<>0<><>::uid://isrntjdg08cv::::res://Main.gd<>uid://dp478jyugrn7o::::res://Player.tscn<>uid://ha0ar5s2c3m4::::res://Mob.tscn<>uid://cqquurjk1i7yw::::res://ui_theme.tres<>uid://pdny8xhf2vbr::::res://ScoreLabel.gd
+Mob.gd::GDScript/GDScript::4739736014586096886::1757944489::0::1::::<>CharacterBody3D<><>0<>0<><>::
+Mob.tscn::PackedScene::492840770380503333::1757945886::0::1::::<><><>0<>0<><>::uid://b8r703gktj3nu::::res://Mob.gd<>uid://bo875bjoro7si::::res://Magikarp.glb
+MusicPlayer.tscn::PackedScene::683599624667444335::1757944504::0::1::::<><><>0<>0<><>::uid://c5qpnfga41t4p::::res://art/House In a Forest Loop.ogg
+Player.gd::GDScript/GDScript::7347378609017276930::1757944489::0::1::::<>CharacterBody3D<><>0<>0<><>::
+Player.tscn::PackedScene::8273964046187778922::1757945886::0::1::::<><><>0<>0<><>::uid://dcxeittpo11nq::::res://Player.gd<>uid://dodu23nrrf5kj::::res://Cubone.glb
+README.md::TextFile/TextFile::-1::1757944489::0::1::::<><><>0<>0<><>::
+ScoreLabel.gd::GDScript/GDScript::1059859736919218127::1757944489::0::1::::<>Label<><>0<>0<><>::
+ui_theme.tres::Theme/Theme::5930143872682747302::1757944489::0::1::::<><><>0<>0<><>::uid://cyxhh7ddkn62q::::res://fonts/Montserrat-Medium.ttf
+::res://art/::1757944496
+body.tres::StandardMaterial3D/StandardMaterial3D::-1::1757944489::0::1::::<><><>0<>0<><>::
+eye.tres::StandardMaterial3D/StandardMaterial3D::-1::1757944489::0::1::::<><><>0<>0<><>::
+House In a Forest Loop.ogg::AudioStreamOggVorbis/AudioStreamOggVorbis::6912470962729766485::1757944489::1757944495::1::::<><><>0<>0<>ca11219f684f6cd2af90d4e6cdaead58<>res://.godot/imported/House In a Forest Loop.ogg-1a6a72ae843ad792b7039931227e8d50.oggvorbisstr::
+mob.glb::PackedScene/PackedScene::2952940687663745631::1757944489::1757944496::1::::<><><>0<>0<>a780a1250ec97030b0168a6a0460c3f3<>res://.godot/imported/mob.glb-3afb43c03b9d1598b6af5154e2543eac.scn::
+mob_body.tres::StandardMaterial3D/StandardMaterial3D::-1::1757944489::0::1::::<><><>0<>0<><>::
+mob_eye.tres::StandardMaterial3D/StandardMaterial3D::-1::1757944489::0::1::::<><><>0<>0<><>::
+player.glb::PackedScene/PackedScene::8964461739428881931::1757944489::1757944496::1::::<><><>0<>0<>888faf6ae4281eadd09c6bedcc72b9b7<>res://.godot/imported/player.glb-08dcfb373480a049995065542e37637b.scn::
+pupil.tres::StandardMaterial3D/StandardMaterial3D::-1::1757944489::0::1::::<><><>0<>0<><>::
+::res://docs/::1757945929
+index.apple-touch-icon.png::CompressedTexture2D::4462480403021492909::1757945929::1757946123::1::::<><><>0<>0<>a78bcf6a242ca62e45f72f74a0b9ca64<>res://.godot/imported/index.apple-touch-icon.png-b21a756d869f84af832970a74d8371bc.ctex::
+index.icon.png::CompressedTexture2D::1532664369650237633::1757945929::1757946123::1::::<><><>0<>0<>ad20389d918aea98741f5db12ed977d5<>res://.godot/imported/index.icon.png-b92c9a802ad4b78e247784454a6b506f.ctex::
+index.png::CompressedTexture2D::5666961765890511103::1757945929::1757946123::1::::<><><>0<>0<>2594b4281e0368bfe7f58cd03c4112a1<>res://.godot/imported/index.png-0c78d14d192abe5f22f8c25928ca1ab8.ctex::
+::res://fonts/::1757944495
+LICENSE.txt::TextFile/TextFile::-1::1757944489::0::1::::<><><>0<>0<><>::
+Montserrat-Medium.ttf::FontFile/FontFile::6505293508080888906::1757944489::1757944495::1::::<><><>0<>0<>07233739ee8ed56ec1cb0f04a4ff2983<>res://.godot/imported/Montserrat-Medium.ttf-e832861e4ad4110e172112dc430c04b0.fontdata::
